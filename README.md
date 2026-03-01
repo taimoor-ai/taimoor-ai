@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Taimoor Arshad
 
-🎓 **BSCS Student (5th Semester)**  
+🎓 **BSCS Student (6th Semester)**  
 💻 **Aspiring Top 1% Web Developer**  
 🌱 **MERN Stack | Backend | DevOps Learner**  
 📍 Pakistan  
