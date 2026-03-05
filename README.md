@@ -19,6 +19,13 @@ Currently, I’m focusing on:
 - Learning **DevOps & Cloud fundamentals**
 - Building **full-stack and Android-based projects**
 
+## 🌐 Socials
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](yourlink)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](yourlink)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](yourlink)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](yourlink)
+
 ---
 
 ## 🛠️ Tech Stack
