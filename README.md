@@ -5,10 +5,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Backend+Systems;Full-Stack+Web+Developer;Node.js+%7C+Express+%7C+MongoDB;Aspiring+Top+1%25+Engineer)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/taimoorarshad)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taimoorarshad@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taimur-arshad-a7a408260/)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taimoor786786@email.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://taimoorarshad.dev)
-[![Location](https://img.shields.io/badge/Pakistan-📍-22C55E?style=for-the-badge)](https://github.com/taimoorarshad)
+[![Location](https://img.shields.io/badge/Pakistan-📍-22C55E?style=for-the-badge)](https://github.com/taimoor-ai)
 
 </div>
 
@@ -81,8 +81,8 @@ Actively deepening my expertise in:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=taimoorarshad&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taimoorarshad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=taimoor-ai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taimoor-ai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
 
 </div>
 
@@ -92,7 +92,7 @@ Actively deepening my expertise in:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=taimoorarshad&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=8B949E"/>
+<img src="https://streak-stats.demolab.com?user=taimoor-ai&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=8B949E"/>
 
 </div>
 
@@ -102,7 +102,7 @@ Actively deepening my expertise in:
 
 <div align="center">
 
-[![Taimoor's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=taimoorarshad&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Taimoor's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=taimoor-ai&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -129,8 +129,8 @@ Actively deepening my expertise in:
 
 | Platform | Link |
 |---|---|
-| 📧 **Email** | taimoorarshad@email.com |
-| 💼 **LinkedIn** | linkedin.com/in/taimoorarshad |
+| 📧 **Email** | taimooor786786@email.com |
+| 💼 **LinkedIn** | https://www.linkedin.com/in/taimur-arshad-a7a408260/ |
 | 🌐 **Portfolio** | taimoorarshad.dev |
 | 🐦 **Twitter / X** | @taimoorarshad |
 
@@ -140,7 +140,7 @@ Actively deepening my expertise in:
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=taimoorarshad&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=taimoor-ai&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 **Open to backend engineering roles, internships, and collaborative projects.**
 *Let's build something that scales.*
