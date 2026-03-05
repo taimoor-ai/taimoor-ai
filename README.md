@@ -1,132 +1,197 @@
-# 👋 Hi, I'm Taimoor Arshad
+```{=html}
+<p align="center">
+```
+`<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=30&center=true&vCenter=true&width=900&lines=Hi+I'm+Taimoor+Arshad;Full+Stack+Developer;MERN+Stack+Engineer;Backend+Developer;DevOps+Learner;Future+Cyber+Security+Engineer;Always+Learning+New+Things" />`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://komarev.com/ghpvc/?username=taimoor-ai&color=00ff00&style=flat-square&label=Profile+Views"/>`{=html}
+```{=html}
+</p>
+```
 
-🎓 **BSCS Student (6th Semester)**  
-💻 **Aspiring Top 1% Web Developer**  
-🌱 **MERN Stack | Backend | DevOps Learner**  
-📍 Pakistan  
+------------------------------------------------------------------------
 
----
+# 👨‍💻 Taimoor Arshad
 
-## 🚀 About Me
+🎓 **BSCS Student -- 6th Semester**\
+💻 **Aspiring Top 1% Developer**\
+🌱 **MERN Stack \| Backend \| DevOps \| Networking**\
+📍 Pakistan
 
-I’m a passionate Computer Science student who loves building real-world applications and deeply understanding how systems work — from **frontend UI** to **backend APIs**, **databases**, and **servers**.
+------------------------------------------------------------------------
 
-I enjoy learning things **from fundamentals to advanced level**, and I believe in writing **clean, scalable, and maintainable code**.
+# 🧠 Hacker Terminal
 
-Currently, I’m focusing on:
-- Becoming a **strong backend developer**
-- Mastering **JavaScript & Node.js**
-- Learning **DevOps & Cloud fundamentals**
-- Building **full-stack and Android-based projects**
+``` bash
+> whoami
+Taimoor Arshad
 
-## 🌐 Socials
+> role
+Full Stack Developer (MERN)
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](yourlink)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](yourlink)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](yourlink)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](yourlink)
+> currently_learning
+Node.js
+TypeScript
+DevOps
+Cloud Infrastructure
+Cyber Security
 
----
+> goal
+Become a Top 1% Engineer
+Build production-grade systems
+```
 
-## 🛠️ Tech Stack
+------------------------------------------------------------------------
 
-### 🌐 Frontend
-- React.js  
-- Vite  
-- HTML5, CSS3, JavaScript (ES6+)  
+# ⚡ Tech Stack
 
-### ⚙️ Backend
-- Node.js  
-- Express.js  
-- REST APIs  
-- Authentication (JWT, Sessions, OTP-based systems)
+```{=html}
+<p align="center">
+```
+`<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,git,github,linux,nginx,java,python,redux,typescript,docker,aws"/>`{=html}
 
-### 🗄️ Databases
-- MongoDB  
-- MySQL  
+```{=html}
+</p>
+```
 
-### 📱 Mobile Development
-- Android (Java)  
-- OCR – Text Recognition from Images  
+------------------------------------------------------------------------
 
-### ☁️ DevOps & Systems
-- Linux (Commands, Permissions, Networking Basics)  
-- Nginx  
-- SSH  
-- Cloud Server Setup  
-- Reverse Proxy Concepts  
+# 🧰 Tools
 
-### 🔧 Tools & Others
-- Git & GitHub  
-- Thunder Client  
-- Postman  
-- Overleaf (LaTeX Reports)  
+```{=html}
+<p align="center">
+```
+`<img src="https://skillicons.dev/icons?i=vscode,postman,figma,androidstudio"/>`{=html}
 
----
+```{=html}
+</p>
+```
 
-## 📌 Featured Projects
+------------------------------------------------------------------------
+
+# 📊 GitHub Stats
+
+```{=html}
+<p align="center">
+```
+`<img height="170" src="https://github-readme-stats.vercel.app/api?username=taimoor-ai&show_icons=true&theme=chartreuse-dark"/>`{=html}
+
+`<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=taimoor-ai&theme=chartreuse-dark"/>`{=html}
+
+```{=html}
+</p>
+```
+
+------------------------------------------------------------------------
+
+# 📈 Activity Graph
+
+```{=html}
+<p align="center">
+```
+`<img src="https://github-readme-activity-graph.vercel.app/graph?username=taimoor-ai&theme=react-dark"/>`{=html}
+
+```{=html}
+</p>
+```
+
+------------------------------------------------------------------------
+
+# 🐍 Contribution Snake
+
+```{=html}
+<p align="center">
+```
+`<img src="https://github.com/taimoor-ai/taimoor-ai/blob/output/github-contribution-grid-snake.svg"/>`{=html}
+
+```{=html}
+</p>
+```
+
+------------------------------------------------------------------------
+
+# 📌 Featured Projects
 
 ### 🌿 Plant Detection Application
-- Image-based plant recognition
-- Displays plant details or **“No plant found”**
-- MERN-based backend
-- Includes chatbot integration
+
+• Image-based plant recognition\
+• MERN backend\
+• Chatbot integration\
+• Returns **Plant info or "No plant found"**
 
 ### 📝 Notes App
-- Built using **React + Express**
-- Supports file uploads with notes
-- MongoDB storage
+
+• React + Express\
+• File upload with notes\
+• MongoDB storage
 
 ### 🌱 Plant E-Commerce Platform
-- Browse plants & accessories
-- Admin management
-- Bulk operations (availability, delete, selection)
-- Grid & table views
 
-### 📸 OCR – Text Recognition App (Android)
-- Image to text conversion
-- Result activity with copy button
-- ML-based text recognition
-- Academic project with full report
+• Admin management\
+• Bulk operations\
+• Grid + table views
 
-### 📊 Cricket Dashboard (Backend)
-- Node.js, Express, MongoDB
-- API-driven architecture
+### 📸 OCR Android App
 
----
+• Image → text recognition\
+• ML-based detection\
+• Copy-to-clipboard result
 
-## 📚 Currently Learning
+### 📊 Cricket Dashboard API
 
-- Advanced **Node.js**
-- **TypeScript**
-- **Redux**
-- **DevOps & Cloud Computing**
-- Networking (Subnetting, LAN, Routing basics)
+• Node.js backend\
+• Express + MongoDB\
+• API-driven architecture
 
----
+------------------------------------------------------------------------
 
-## 🎯 Goals
+# 🌐 Connect With Me
 
-- Become a **highly skilled backend & full-stack developer**
-- Build **production-ready applications**
-- Gain strong command over **system design & DevOps**
-- Secure a **professional role in tech industry**
+```{=html}
+<p align="center">
+```
+`<a href="YOUR_LINK">`{=html}
+`<img src="https://img.shields.io/badge/LinkedIn-00ff00?style=for-the-badge&logo=linkedin&logoColor=black"/>`{=html}
+`</a>`{=html}
 
----
+`<a href="YOUR_LINK">`{=html}
+`<img src="https://img.shields.io/badge/Instagram-00ff00?style=for-the-badge&logo=instagram&logoColor=black"/>`{=html}
+`</a>`{=html}
 
-## 📈 GitHub Philosophy
+`<a href="YOUR_LINK">`{=html}
+`<img src="https://img.shields.io/badge/YouTube-00ff00?style=for-the-badge&logo=youtube&logoColor=black"/>`{=html}
+`</a>`{=html}
 
-> “Learn deeply, build practically, and improve consistently.”
+```{=html}
+</p>
+```
 
-I believe **projects > tutorials**, and I love turning ideas into working software.
+------------------------------------------------------------------------
 
----
+# 🎯 Current Focus
 
-## 📬 Connect With Me
+``` bash
+Building scalable backend systems
+Learning advanced Node.js
+Studying networking & security
+Exploring DevOps and cloud architecture
+```
 
-- GitHub: **You’re already here 😉**
-- Always open to collaboration & learning
+------------------------------------------------------------------------
 
----
+# 🧠 Developer Philosophy
 
-⭐ *If you find my work interesting, feel free to star repositories and connect!*  
+    while(alive){
+        learn();
+        build();
+        improve();
+    }
+
+------------------------------------------------------------------------
+
+⭐ If you like my work, consider starring repositories and connecting
+with me!
