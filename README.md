@@ -131,7 +131,7 @@ Actively deepening my expertise in:
 |---|---|
 | 📧 **Email** | taimooor786786@email.com |
 | 💼 **LinkedIn** | https://www.linkedin.com/in/taimur-arshad-a7a408260/ |
-| 🌐 **Portfolio** | https://taimoorarshad.vercel.app/ |
+| 🌐 **Portfolio** | https://www.taimoorarshad.online/ |
 | 🐦 **Twitter / X** | @taimoorarshad |
 
 </div>
